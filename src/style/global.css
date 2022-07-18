@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+section {
+  width: 100%;
+  min-height: 100vh;
+  max-width: 470px;
+  margin: 0 auto;
+}

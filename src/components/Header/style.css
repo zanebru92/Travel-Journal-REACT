@@ -1,0 +1,14 @@
+.header-container {
+  height: 55px;
+  width: 100%;
+  background: #f55a5a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 5px #f55a5a;
+}
+.header-container p {
+  font-size: 1.25rem;
+  margin-left: 3px;
+}
